@@ -1,0 +1,19 @@
+body{margin: 0%;
+    font-family: 'Mitr', sans-serif;
+}
+.my-creator{color: green;font-size: larger;text-align: center;}
+h1{font-size: 50px;font-weight: 700px;color:darkmagenta;}
+h2{color: rgb(255, 123, 0);font-weight: 700px;}
+.my-name{font-size: 60px;font-weight: 700px;color: tomato;}
+.half-width{width: 40%;float: left;margin-left: 5%; padding-left: 2%;}
+.link-button{text-decoration: none;
+background-color: orange;
+border-radius: 5px;
+padding: 10px 10px;
+color: white;}
+.my-rob{
+    background-image: url("Images/copy.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+section{height: 500px;}
